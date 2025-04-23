@@ -6,7 +6,7 @@ A Dashboard built with **Vite React**, **Redux Toolkit**, and **Material UI**, s
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/ridge-tech.git
+git clone https://github.com/Lailama2000/react-test-project.git
 cd ridge-tech
 
 # Install dependencies
